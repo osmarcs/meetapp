@@ -1,0 +1,7 @@
+{
+  "name": "meetapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Osmar CS <osmar.costa.s@gmail.com>",
+  "license": "MIT"
+}
