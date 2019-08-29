@@ -4,7 +4,7 @@ const routes = new Router();
 
 routes.get('/', (req, res) => {
   res.json({
-    status: 'ok'
+    status: 'ok',
   });
 });
 
